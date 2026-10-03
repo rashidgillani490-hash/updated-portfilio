@@ -90,9 +90,9 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-4 xl:mb-8 px-2 xl:px-0 text-white/70"
           >
-            Hi, I,m Syed Awais Gillani, Founder & CEO of NexCore. I specialize in
+            Hi, I&apos;m Syed Awais Gillani, Founder & CEO of NexCore. I specialize in
             building intelligent AI automation systems, modern websites, and robust
-            software architectures for an international client base. I don't just use
+            software architectures for an international client base. I don&apos;t just use
             existing tools; I build custom source code and scalable applications from
             scratch. Passionate about driving global digital transformation through
             autonomous workflows.
