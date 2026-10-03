@@ -33,7 +33,7 @@ export const aboutData = [
   {
     title: "experience",
     info: [
-      { title: "Co-founder of NexCore" },
+      { title: "Founder & CEO of NexCore" },
       { title: "Agentic AI & AI Automation" },
       { title: "Custom Software & Web Development - International Clients" },
     ],
@@ -41,7 +41,7 @@ export const aboutData = [
   {
     title: "education",
     info: [
-      { title: "BS Computer Science (BS CS) at UET (University of Engineering and Technology)", stage: "Present" },
+      { title: "BS Artificial Intelligence (BS AI) at Ripha International University", stage: "Present" },
     ],
   },
   {
@@ -90,7 +90,7 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-4 xl:mb-8 px-2 xl:px-0 text-white/70"
           >
-            Hi, I&apos;m Tanzeel ur Rehman, Co-founder of NexCore. I specialize in
+            Hi, I&apos;m Syed Awais Gillani, Founder & CEO of NexCore. I specialize in
             building intelligent AI automation systems, modern websites, and robust
             software architectures for an international client base. I don&apos;t just use
             existing tools; I build custom source code and scalable applications from
